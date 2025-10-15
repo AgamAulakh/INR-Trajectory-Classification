@@ -10,7 +10,7 @@
 
 Implementation of our paper "_Semi-Disentangled Spatiotemporal Implicit Neural Representations of Longitudinal Neuroimaging Data for Trajectory Classification_," accepted at the [LMID workshop](https://ldtm-miccai.github.io/lmid2025/) at MICCAI 2025.
 
-[[Paper - TBA]()] [[Web Page - TBA]()] [[Corresponding Author Email](mailto:agampreet.aulakh@ucalgary.ca?subject=INR%20trajectory%20classification)]
+[[Paper](https://arxiv.org/abs/2510.09936)] [[Web Page - TBA]()] [[Corresponding Author Email](mailto:agampreet.aulakh@ucalgary.ca?subject=INR%20trajectory%20classification)]
 
 ---
 ### Abstract
